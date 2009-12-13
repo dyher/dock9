@@ -1,0 +1,297 @@
+Sat Oct 10 18:52:46 2009:/areas/trepi/room/trepi_lane12.c line 22: syntax error before __DIR__+"trepi_lane1
+Sat Oct 10 19:14:45 2009:/areas/trepi/room/trepi_lane15.c line 21: syntax error before ) );
+Sat Oct 10 19:17:27 2009:/areas/trepi/room/trepi_lane16.c line 21: Undefined variable '_DIR__' before "trepi_lane17.c"
+Sat Oct 10 19:17:29 2009:/areas/trepi/room/trepi_lane16.c line 21: Undefined variable '_DIR__' before "trepi_lane17.c"
+Sat Oct 10 19:36:26 2009:/areas/trepi/room/trepi_lane23.c line 20: syntax error before the end of line
+Sat Oct 10 19:39:30 2009:/areas/trepi/room/trepi_lane24.c line 19: syntax error before the end of line
+Sun Oct 11 14:38:27 2009:/cmds/std/look.c line 136: Bad argument 1 to '/': "string " before ;
+Sun Dec  6 22:04:12 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined function is_living before ; }
+Sun Dec  6 22:05:22 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined function livingp before ; }
+Sun Dec  6 22:05:38 2009:/home/e/emsenn/tmp_eval_file.c line 1: Too few arguments to objectp before ; }
+Sun Dec  6 22:05:57 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined function mobilep before ; }
+Sun Dec  6 22:20:35 2009:/areas/trepi/room/dock9.c line 55: Wrong number of arguments to set_chats
+    Expected: 2  Got: 1 before ;
+Mon Dec  7 00:10:15 2009:/areas/trepi/room/pier6.c line 40: Reserved type name unexpected. before  = clone_object("/ar
+Mon Dec  7 00:10:15 2009:/areas/trepi/room/pier6.c line 40: syntax error before  = clone_object("/ar
+Mon Dec  7 00:10:15 2009:/areas/trepi/room/pier6.c line 40: Illegal LHS before the end of line
+Mon Dec  7 00:10:15 2009:/areas/trepi/room/pier6.c line 40: Warning: Expression has no side effects, and the value is unused before the end of line
+Mon Dec  7 00:10:15 2009:/areas/trepi/room/pier6.c line 41: Undefined variable 'mob' before move(this_object());
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 122: Undefined function member_of before {
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 122: syntax error before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 129: Illegal LHS before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 129: syntax error before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 132: Illegal LHS before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 132: syntax error before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 122: Undefined function member_of before {
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 122: syntax error before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 129: Illegal LHS before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 129: syntax error before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 132: Illegal LHS before the end of line
+Mon Dec  7 06:59:10 2009:/cmds/std/look.c line 132: syntax error before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 122: Too few arguments to member_array before {
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 122: syntax error before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 129: Illegal LHS before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 129: syntax error before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 132: Illegal LHS before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 132: syntax error before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 122: Too few arguments to member_array before {
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 122: syntax error before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 129: Illegal LHS before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 129: syntax error before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 132: Illegal LHS before the end of line
+Mon Dec  7 07:00:07 2009:/cmds/std/look.c line 132: syntax error before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 122: syntax error before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 129: Illegal LHS before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 129: syntax error before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 132: Illegal LHS before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 132: syntax error before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 136: Illegal LHS before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 122: syntax error before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 129: Illegal LHS before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 129: syntax error before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 132: Illegal LHS before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 132: syntax error before the end of line
+Mon Dec  7 07:00:47 2009:/cmds/std/look.c line 136: Illegal LHS before the end of line
+Mon Dec  7 07:01:52 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined variable 'room' before query_exits(); }
+Mon Dec  7 07:02:55 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined function query_exits before )); }
+Mon Dec  7 07:10:47 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun environment() before ; }
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 112: syntax error before the end of line
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 152: Undefined variable 'subtarget' before  room);
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 152: Illegal LHS before the end of line
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 152: syntax error before the end of line
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 155: Undefined variable 'user' before ;
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 155: Illegal LHS before the end of line
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 112: syntax error before the end of line
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 152: Undefined variable 'subtarget' before  room);
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 152: Illegal LHS before the end of line
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 152: syntax error before the end of line
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 155: Undefined variable 'user' before ;
+Mon Dec  7 07:26:28 2009:/cmds/std/look.c line 155: Illegal LHS before the end of line
+Mon Dec  7 07:26:53 2009:/cmds/std/look.c line 116: Undefined variable 'ob' before query_cap_name() + "
+Mon Dec  7 07:26:53 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:26:53 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:26:53 2009:/cmds/std/look.c line 116: Undefined variable 'ob' before query_cap_name() + "
+Mon Dec  7 07:26:53 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:26:53 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:27:13 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:27:13 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:27:13 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:27:13 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:28:07 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:28:07 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:28:07 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:28:07 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:29:26 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:29:26 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:29:26 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:29:26 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:30:20 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:30:20 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:30:20 2009:/cmds/std/look.c line 209: Reserved type name unexpected. before (string target)
+Mon Dec  7 07:30:20 2009:/cmds/std/look.c line 209: syntax error before (string target)
+Mon Dec  7 07:43:52 2009:/areas/trepi/npc/greeter_sailor.c line 36: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 07:43:52 2009:/areas/trepi/npc/greeter_sailor.c line 36: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 07:43:52 2009:/areas/trepi/npc/greeter_sailor.c line 36: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 07:46:34 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 07:46:34 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 07:46:34 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:28:49 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:28:49 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:28:49 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:35:25 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:35:25 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:35:25 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:38:12 2009:/std/user/mobile.c line 502: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:38:12 2009:/std/user/mobile.c line 502: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:39:38 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:39:38 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:39:38 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:41:09 2009:/std/user/mobile.c line 467: Undefined variable 'destination' before )
+Mon Dec  7 08:41:13 2009:/std/user/mobile.c line 467: Undefined variable 'destination' before )
+Mon Dec  7 08:42:16 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:42:59 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:42:59 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:43:19 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:43:19 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:43:19 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:43:38 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:43:38 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:43:47 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:43:47 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:44:07 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:44:07 2009:/std/user/mobile.c line 509: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:44:28 2009:/std/user/mobile.c line 508: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:45:59 2009:/std/user/mobile.c line 550: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:45:59 2009:/std/user/mobile.c line 550: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:46:01 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:46:01 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:46:01 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:47:22 2009:/std/user/mobile.c line 551: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:47:43 2009:/std/user/mobile.c line 550: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:48:31 2009:/std/user/mobile.c line 550: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:48:31 2009:/std/user/mobile.c line 550: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:48:42 2009:/std/user/mobile.c line 550: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:48:42 2009:/std/user/mobile.c line 550: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:48:45 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:48:45 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:48:45 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:49:39 2009:/std/user/mobile.c line 551: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:49:42 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:49:42 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:49:42 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:50:10 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:50:10 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:50:10 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:51:36 2009:/std/user/mobile.c line 552: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:51:36 2009:/std/user/mobile.c line 552: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:51:38 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:51:38 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:51:38 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:53:20 2009:/std/user/mobile.c line 502: Warning: Unused local variable 'moveorigin' before the end of line
+Mon Dec  7 08:53:20 2009:/std/user/mobile.c line 502: Warning: Unused local variable 'movedestination' before the end of line
+Mon Dec  7 08:53:20 2009:/std/user/mobile.c line 552: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:53:20 2009:/std/user/mobile.c line 552: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:53:24 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:53:24 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:53:24 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:54:32 2009:/std/user/mobile.c line 502: Warning: Unused local variable 'fdsamoveorigin' before the end of line
+Mon Dec  7 08:54:32 2009:/std/user/mobile.c line 502: Warning: Unused local variable 'fdsamovedestination' before the end of line
+Mon Dec  7 08:54:32 2009:/std/user/mobile.c line 552: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:54:32 2009:/std/user/mobile.c line 552: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:54:36 2009:/std/user/mobile.c line 502: Warning: Unused local variable 'fdsamoveorigin' before the end of line
+Mon Dec  7 08:54:36 2009:/std/user/mobile.c line 502: Warning: Unused local variable 'fdsamovedestination' before the end of line
+Mon Dec  7 08:54:36 2009:/std/user/mobile.c line 552: Warning: Unused local variable 'origin' before the end of line
+Mon Dec  7 08:54:36 2009:/std/user/mobile.c line 552: Warning: Unused local variable 'destination' before the end of line
+Mon Dec  7 08:54:39 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:54:39 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:54:39 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:56:10 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:56:10 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:56:10 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 08:59:05 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 08:59:05 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 08:59:05 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 09:00:17 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 09:00:17 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 09:00:17 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 09:01:39 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 09:01:39 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 09:01:39 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 09:02:45 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'arg' before the end of line
+Mon Dec  7 09:02:45 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'from' before the end of line
+Mon Dec  7 09:02:45 2009:/areas/trepi/npc/greeter_sailor.c line 34: Warning: Unused local variable 'chan' before the end of line
+Mon Dec  7 10:33:50 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  }
+Mon Dec  7 10:40:36 2009:/std/object/object.c line 103: syntax error before 20)-((chat_interval*
+Mon Dec  7 10:40:36 2009:/std/object/object.c line 105: Illegal LHS before the end of line
+Mon Dec  7 10:40:36 2009:/std/object/object.c line 116: Illegal LHS before the end of line
+Mon Dec  7 10:40:36 2009:/std/object/object.c line 116: syntax error before the end of line
+Mon Dec  7 10:40:36 2009:/std/object/object.c line 118: Illegal LHS before the end of line
+Mon Dec  7 10:40:36 2009:/std/object/object.c line 123: Illegal LHS before the end of line
+Mon Dec  7 10:41:01 2009:/std/object/object.c line 103: syntax error before 20));
+Mon Dec  7 10:41:01 2009:/std/object/object.c line 105: Illegal LHS before the end of line
+Mon Dec  7 10:41:01 2009:/std/object/object.c line 116: Illegal LHS before the end of line
+Mon Dec  7 10:41:01 2009:/std/object/object.c line 116: syntax error before the end of line
+Mon Dec  7 10:41:01 2009:/std/object/object.c line 118: Illegal LHS before the end of line
+Mon Dec  7 10:41:01 2009:/std/object/object.c line 123: Illegal LHS before the end of line
+Mon Dec  7 10:51:06 2009:/areas/trepi/obj/cucumber.c line 12: Undefined function set_short before ;
+Mon Dec  7 11:02:07 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined variable 'chat_interlfdsfz' before ; }
+Mon Dec  7 11:02:07 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before ; }
+Mon Dec  7 11:16:02 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined variable 'target' before ) return 1;; }
+Mon Dec  7 11:16:02 2009:/home/e/emsenn/tmp_eval_file.c line 1: Illegal lvalue before ) return 1;; }
+Mon Dec  7 11:37:46 2009:/areas/trepi/npc/greeter_sailor.c line 42: Warning: Unused local variable 'obtarget' before the end of line
+Mon Dec  7 11:38:50 2009:/areas/trepi/npc/greeter_sailor.c line 42: Warning: Unused local variable 'obtarget' before the end of line
+Mon Dec  7 11:40:02 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun find_object() before ; }
+Mon Dec  7 11:43:10 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined function lowercase before )->move("/areas/make
+Mon Dec  7 11:43:39 2009:/areas/trepi/npc/greeter_sailor.c line 42: Warning: Unused local variable 'obtarget' before the end of line
+Mon Dec  7 12:26:16 2009:/cmds/std/info.c line 13: Invalid argument types to '+' ( void vs string ) before ;
+Mon Dec  7 12:26:16 2009:/cmds/std/info.c line 13: syntax error before ;
+Mon Dec  7 12:29:34 2009:/cmds/std/info.c line 13: Undefined variable 'targetob' before  environment(this_pl
+Mon Dec  7 12:29:34 2009:/cmds/std/info.c line 13: Illegal lvalue before  environment(this_pl
+Mon Dec  7 12:29:34 2009:/cmds/std/info.c line 15: Undefined function file_path before +"\n"
+Mon Dec  7 12:29:47 2009:/cmds/std/info.c line 16: Undefined function file_path before +"\n"
+Mon Dec  7 13:15:22 2009:/cmds/std/info.c line 12: Undefined function help before ;
+Mon Dec  7 13:20:47 2009:/cmds/std/info.c line 17: syntax error before the end of line
+Mon Dec  7 13:23:24 2009:/cmds/std/info.c line 15: Undefined function elseif before  targetob = this_pla
+Mon Dec  7 13:23:24 2009:/cmds/std/info.c line 15: syntax error before  = this_player();
+Mon Dec  7 13:23:24 2009:/cmds/std/info.c line 15: Illegal LHS before the end of line
+Mon Dec  7 13:23:24 2009:/cmds/std/info.c line 15: Warning: Expression has no side effects, and the value is unused before the end of line
+Mon Dec  7 13:23:24 2009:/cmds/std/info.c line 16: syntax error before {
+Mon Dec  7 13:23:24 2009:/cmds/std/info.c line 20: "#pragma strict_types" requires type of function before the end of line
+Mon Dec  7 13:23:24 2009:/cmds/std/info.c line 21: syntax error before +file_name(targetob)
+Mon Dec  7 13:23:36 2009:/cmds/std/info.c line 15: syntax error before  = this_player();
+Mon Dec  7 13:23:36 2009:/cmds/std/info.c line 15: Illegal LHS before the end of line
+Mon Dec  7 13:23:36 2009:/cmds/std/info.c line 15: Warning: Expression has no side effects, and the value is unused before the end of line
+Mon Dec  7 13:23:36 2009:/cmds/std/info.c line 16: syntax error before {
+Mon Dec  7 13:23:36 2009:/cmds/std/info.c line 20: "#pragma strict_types" requires type of function before the end of line
+Mon Dec  7 13:23:36 2009:/cmds/std/info.c line 21: syntax error before +file_name(targetob)
+Mon Dec  7 13:24:02 2009:/cmds/std/info.c line 15: syntax error before  = this_player();
+Mon Dec  7 13:24:02 2009:/cmds/std/info.c line 15: Illegal LHS before the end of line
+Mon Dec  7 13:24:02 2009:/cmds/std/info.c line 15: Warning: Expression has no side effects, and the value is unused before the end of line
+Mon Dec  7 16:51:37 2009:/areas/trepi/room/trepi_lane15.c line 20: Undefined variable '_DIR__' before "trepi_lane16.c"
+Mon Dec  7 16:51:37 2009:/areas/trepi/room/trepi_lane15.c line 20: Undefined variable '_DIR__' before "trepi_lane16.c"
+Mon Dec  7 20:19:16 2009:/areas/trepi/docks/room/cargo1.c line 34: syntax error before .",
+Mon Dec  7 20:19:16 2009:/areas/trepi/docks/room/cargo1.c line 42: Illegal character constant before e long and brown and
+Mon Dec  7 20:19:16 2009:/areas/trepi/docks/room/cargo1.c line 62: End of file in string at the end of the file
+Mon Dec  7 23:25:24 2009:/areas/trepi/docks/npc/greeter_sailor.c line 41: Too few arguments to tell_room before ;
+Mon Dec  7 23:25:24 2009:/areas/trepi/docks/npc/greeter_sailor.c line 41: Warning: Expression has no side effects, and the value is unused before the end of line
+Tue Dec  8 07:23:53 2009:/areas/trepi/docks/room/cargo2.c line 38: syntax error before );
+Tue Dec  8 07:24:07 2009:/areas/trepi/docks/room/cargo2.c line 38: syntax error before );
+Tue Dec  8 07:57:20 2009:/areas/trepi/docks/room/cargo3.c line 24: syntax error before "ocean","besling oce
+Tue Dec  8 08:27:32 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  }
+Tue Dec  8 08:31:51 2009:/areas/trepi/docks/room/customs.c line 24: syntax error before "shelf","rack","disp
+Tue Dec  8 08:31:51 2009:/areas/trepi/docks/room/customs.c line 41: End of file in string at the end of the file
+Tue Dec  8 08:32:13 2009:/areas/trepi/docks/room/customs.c line 24: syntax error before "shelf","rack","disp
+Tue Dec  8 08:32:13 2009:/areas/trepi/docks/room/customs.c line 41: End of file in string at the end of the file
+Tue Dec  8 08:32:22 2009:/areas/trepi/docks/room/customs.c line 35: syntax error before " : "/areas/trepi/do
+Tue Dec  8 08:32:22 2009:/areas/trepi/docks/room/customs.c line 41: End of file in string at the end of the file
+Tue Dec  8 08:32:34 2009:/areas/trepi/docks/room/customs.c line 41: syntax error before the end of file
+Tue Dec  8 08:34:31 2009:/cmds/std/help.c line 35: Undefined function file_path before +
+Tue Dec  8 10:02:02 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined function inventory before ; }
+Tue Dec  8 10:03:39 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  }
+Tue Dec  8 10:04:15 2009:/home/e/emsenn/tmp_eval_file.c line 1: 'item' is not a local or a global variable. before  in keys(all_invento
+Tue Dec  8 10:04:15 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun keys() before ; }
+Tue Dec  8 10:04:15 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  }
+Tue Dec  8 10:05:11 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined variable 'i' before 0;i < sizeof(keys(al
+Tue Dec  8 10:05:11 2009:/home/e/emsenn/tmp_eval_file.c line 1: Illegal lvalue before 0;i < sizeof(keys(al
+Tue Dec  8 10:05:11 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun keys() before ; i++){ write("foo")
+Tue Dec  8 10:05:11 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  i++){ write("foo");
+Tue Dec  8 10:05:30 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun keys() before ; i++){ write("foo")
+Tue Dec  8 10:05:30 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  i++){ write("foo");
+Tue Dec  8 10:05:43 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  i++){ write("foo");
+Tue Dec  8 10:06:46 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined variable 'allinv' before ; i++){ write("foo\n
+Tue Dec  8 10:06:46 2009:/home/e/emsenn/tmp_eval_file.c line 1: Warning: Unused local variable 'roominv' before the end of line
+Tue Dec  8 10:09:34 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  write("foo\n"); ret
+Tue Dec  8 11:46:57 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before ()); return 1; }else
+Tue Dec  8 11:50:51 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined variable 'roomiv' before  for(i=0;i < sizeof(
+Tue Dec  8 11:56:33 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before {notify_fail("Error 
+Tue Dec  8 11:56:41 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before { notify_fail("Error
+Tue Dec  8 11:57:00 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before { notify_fail("Error
+Tue Dec  8 11:59:25 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before { notify_fail("Error
+Tue Dec  8 11:59:25 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined variable 'upd' before  }
+Tue Dec  8 11:59:25 2009:/home/e/emsenn/tmp_eval_file.c line 1: Warning: Expression has no side effects, and the value is unused before  }
+Tue Dec  8 11:59:31 2009:/cmds/std/help.c line 42: syntax error before roominv = all_invent
+Tue Dec  8 11:59:31 2009:/cmds/std/help.c line 42: Illegal LHS before the end of line
+Tue Dec  8 11:59:31 2009:/cmds/std/help.c line 42: Warning: Expression has no side effects, and the value is unused before the end of line
+Tue Dec  8 12:14:38 2009:/cmds/std/info.c line 20: Undefined variable 'i' before 0;i < sizeof(roominv
+Tue Dec  8 12:14:38 2009:/cmds/std/info.c line 20: Illegal lvalue before 0;i < sizeof(roominv
+Tue Dec  8 12:14:38 2009:/cmds/std/info.c line 20: Undefined variable 'str' before )
+Tue Dec  8 12:14:46 2009:/cmds/std/info.c line 21: Undefined variable 'str' before )
+Tue Dec  8 13:51:34 2009:/adm/obj/login.c line 536: Warning: Unused local variable 'obs' before the end of line
+Tue Dec  8 14:01:25 2009:/adm/obj/login.c line 527: syntax error before ;
+Tue Dec  8 14:01:25 2009:/adm/obj/login.c line 527: syntax error before ;
+Wed Dec  9 11:22:39 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun file_name() before ); }
+Wed Dec  9 11:22:41 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun file_name() before )); }
+Wed Dec  9 11:22:41 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before ; }
+Wed Dec  9 11:22:44 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun file_name() before )); }
+Wed Dec  9 11:22:44 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before ; }
+Wed Dec  9 11:25:01 2009:/home/e/emsenn/tmp_eval_file.c line 1: Bad argument 1 to efun file_name() before )); }
+Wed Dec  9 11:25:01 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before ; }
+Thu Dec 10 00:38:09 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined function query_heartbeat before ; }
+Fri Dec 11 09:35:19 2009:/home/p/puzzles/workroom.c line 43: Warning: Expression has no side effects, and the value is unused before ) : 
+Fri Dec 11 09:49:34 2009:/home/p/puzzles/workroom.c line 54: syntax error before the end of line
+Fri Dec 11 09:49:45 2009:/home/p/puzzles/workroom.c line 54: syntax error before the end of line
+Fri Dec 11 10:39:28 2009:/home/e/emsenn/tmp_eval_file.c line 1: Undefined function file_path before ; write(__DIR__);; }
+Fri Dec 11 10:39:28 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  write(__DIR__);; }
+Fri Dec 11 10:39:35 2009:/home/e/emsenn/tmp_eval_file.c line 1: syntax error before  write(__DIR__);; }
+Sat Dec 12 12:37:44 2009:/areas/trepi/docks/room/dock12.c line 29: syntax error before "There are five othe
+Sat Dec 12 12:37:44 2009:/areas/trepi/docks/room/dock12.c line 29: syntax error before "There are five othe

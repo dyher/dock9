@@ -1,0 +1,11 @@
+This directory contains scripts which you may find useful
+for doing mass changes/updates.
+
+hwipe.sh : Deletes all home directories
+pwipe.sh : Deletes all accounts (aka pfiles)
+
+If you develop scripts that you feel other people would
+find useful, please feel free to submit them to the
+development team to include with the package.
+
+Thank you.

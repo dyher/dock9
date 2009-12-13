@@ -1,0 +1,35 @@
+using config file: config.mud
+----------------------------------------------------------------------------
+Dock 9 (FluffOS v2.18.9-alpha-rth) starting up on Linux - Sun Dec 13 08:09:01 2009
+
+
+Connected to address server on localhost port 7374
+] Sapidlib, Copyright (C) 2005-2008 Sapidlib Developers
+ Sapidlib comes with ABSOLUTELY NO WARRANTY; for details type `license w'.
+ This is free software, and you are welcome to redistribute it under
+ certain conditions; type `license c' for details.
+
+Loading preloaded files ...
+]Preloading: /adm/daemons/socket_d...]
+]Preloading: /adm/daemons/history_d...]
+]Preloading: /adm/daemons/chan_d...]
+]  Loading channel module: /adm/daemons/chmodules/localNet...]
+]  Loading channel module: /adm/daemons/chmodules/i3...](56.000 ms)
+]  Loading channel module: /adm/daemons/chmodules/announceNet...](8.000 ms)
+](64.000 ms)
+]Preloading: /adm/daemons/shutdown_d...]
+]Preloading: /adm/daemons/ga_server...]
+Global Alias Server: 41 global aliases parsed. 0 errors encountered.
+]
+]Preloading: /adm/daemons/finger_d...]
+]Preloading: /adm/daemons/news_d...]
+]Preloading: /adm/daemons/terminal_d...]
+]Preloading: /adm/daemons/soul_d...](4.000 ms)
+]Preloading: /adm/daemons/lockdown_d...]
+]Preloading: /adm/daemons/mail_d...]
+]Preloading: /adm/daemons/rank_d...](4.000 ms)
+]Preloading: /adm/daemons/http_d...](4.000 ms)
+Initializations complete.
+
+Accepting connections on port 5889.
+Socket passed to fd 6 ignored (support is disabled).

@@ -1,0 +1,3 @@
+#/adm/daemons/chmodules/i3.c
+data (["router_list":({({"*i4","204.209.44.3 8080",}),}),"router_password":0,"other":(["uptime":"Dock 9 has been running since Sunday, 13th December 2009 - 08:08:48 EST","oob tcp port":"5894",]),"reconnect_wait":50,"routerConnected":0,"mudlist_id":1609612,"chanlist_id":0,"services":(["ping":1,"channel":1,"tell":1,"finger":1,"who":1,"auth":1,"locate":1,"version":1,"ucache":1,"emoteto":1,"file":1,"beep":1,"http":5890,]),])
+packetHook ([])

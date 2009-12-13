@@ -1,0 +1,16 @@
+./lib/log/*
+./lib/log/**/*
+./lib/adm/tmp/*
+./bin/*
+./etc/startmud.*
+./lib/data/*
+./lib/data/**/*
+GNUmakefile
+Makefile
+./lib/home/**/*
+./bin
+./lib/www/logs/*
+./lib/www/logs/**/*
+./etc/config.mud
+lib/home
+

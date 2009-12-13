@@ -1,0 +1,184 @@
+Wed Dec  9 07:04:31 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs/favicon.ico
+Wed Dec  9 07:04:31 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 07:04:35 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.114 39956
+Wed Dec  9 07:04:35 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 07:04:35 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#54)
+Wed Dec  9 07:04:35 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#54)
+Wed Dec  9 07:04:35 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "192.168.1.200:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 07:04:35 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs/favicon.ico
+Wed Dec  9 07:04:37 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.114 39957
+Wed Dec  9 07:04:37 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 8
+Wed Dec  9 07:04:37 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#55)
+Wed Dec  9 07:04:37 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#55)
+Wed Dec  9 07:04:38 2009:Notice [httpd/thread/http_read_cb]: fd: 8
+MAPPING([ "Referer": "http://192.168.1.200:5890/", "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "192.168.1.200:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 07:04:38 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs/index.lpcs
+Wed Dec  9 07:04:38 2009:Notice [httpd/thread/rec_get]: Outgoing headers -- fd: 8
+ARRAY({ "HTTP/1.1 200 OK", "Date: Wed, 09 Dec 2009 06:04:38 GMT", "Connection: close", "Server: FluffOS/v2.18.9-alpha-rth (Linux) Sapidlib/Pre-Alpha", "X-Powered-By: Sapidlib/Pre-Alpha", "Content-Length: 3233", "Content-Type: text/plain", "Last-Modified: Wed, 09 Dec 2009 06:04:38 GMT", "Expires: Wed, 09 Dec 2009 06:05:38 GMT", "" })
+Wed Dec  9 07:04:38 2009:Success [SOCKET_D/HTTP_D.8]: Remote connection (8) closed.
+Wed Dec  9 07:10:36 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.1 36303
+Wed Dec  9 07:10:36 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 8
+Wed Dec  9 07:10:36 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#56)
+Wed Dec  9 07:10:36 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#56)
+Wed Dec  9 07:10:36 2009:Notice [httpd/thread/http_read_cb]: fd: 8
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "24.210.215.164:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 07:10:36 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs
+Wed Dec  9 07:10:36 2009:Notice [httpd/thread/rec_get]: Outgoing headers -- fd: 8
+ARRAY({ "HTTP/1.1 200 OK", "Date: Wed, 09 Dec 2009 06:10:36 GMT", "Connection: close", "Server: FluffOS/v2.18.9-alpha-rth (Linux) Sapidlib/Pre-Alpha", "X-Powered-By: Sapidlib/Pre-Alpha", "Content-Length: 2049", "Content-Type: application/xhtml+xml; charset=utf-8", "Last-Modified: Wed, 09 Dec 2009 06:10:36 GMT", "Expires: Wed, 09 Dec 2009 06:11:36 GMT", "" })
+Wed Dec  9 07:21:05 2009:Warning [SOCKET_D/HTTP_D.3]: Remote connection (3) terminated.
+Wed Dec  9 07:21:05 2009:Notice [HTTP_D/close_cb]: Closing connection to 3
+Wed Dec  9 07:21:05 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 07:21:05 2009:Warning [SOCKET_D/HTTP_D.8]: Remote connection (8) terminated.
+Wed Dec  9 07:21:05 2009:Notice [HTTP_D/close_cb]: Closing connection to 8
+Wed Dec  9 07:21:05 2009:Success [SOCKET_D/HTTP_D.8]: Remote connection (8) closed.
+Wed Dec  9 07:21:37 2009:Warning [SOCKET_D/HTTP_D.5]: Remote connection (5) terminated.
+Wed Dec  9 07:21:37 2009:Notice [HTTP_D/close_cb]: Closing connection to 5
+Wed Dec  9 07:21:37 2009:Success [SOCKET_D/HTTP_D.5]: Remote connection (5) closed.
+Wed Dec  9 07:21:38 2009:Warning [SOCKET_D/HTTP_D.4]: Remote connection (4) terminated.
+Wed Dec  9 07:21:38 2009:Notice [HTTP_D/close_cb]: Closing connection to 4
+Wed Dec  9 07:21:38 2009:Success [SOCKET_D/HTTP_D.4]: Remote connection (4) closed.
+Wed Dec  9 07:21:38 2009:Warning [SOCKET_D/HTTP_D.7]: Remote connection (7) terminated.
+Wed Dec  9 07:21:38 2009:Notice [HTTP_D/close_cb]: Closing connection to 7
+Wed Dec  9 07:21:38 2009:Success [SOCKET_D/HTTP_D.7]: Remote connection (7) closed.
+Wed Dec  9 07:23:17 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.114 34497
+Wed Dec  9 07:23:17 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 07:23:17 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#57)
+Wed Dec  9 07:23:17 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#57)
+Wed Dec  9 07:23:18 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "192.168.1.200:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 07:23:18 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs
+Wed Dec  9 07:23:18 2009:Notice [httpd/thread/rec_get]: Outgoing headers -- fd: 3
+ARRAY({ "HTTP/1.1 200 OK", "Date: Wed, 09 Dec 2009 06:23:18 GMT", "Connection: close", "Server: FluffOS/v2.18.9-alpha-rth (Linux) Sapidlib/Pre-Alpha", "X-Powered-By: Sapidlib/Pre-Alpha", "Content-Length: 2049", "Content-Type: application/xhtml+xml; charset=utf-8", "Last-Modified: Wed, 09 Dec 2009 06:23:18 GMT", "Expires: Wed, 09 Dec 2009 06:24:18 GMT", "" })
+Wed Dec  9 07:24:22 2009:Warning [SOCKET_D/HTTP_D.3]: Remote connection (3) terminated.
+Wed Dec  9 07:24:22 2009:Notice [HTTP_D/close_cb]: Closing connection to 3
+Wed Dec  9 07:24:22 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 07:24:23 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.114 34678
+Wed Dec  9 07:24:23 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 07:24:23 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#58)
+Wed Dec  9 07:24:23 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#58)
+Wed Dec  9 07:24:23 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "192.168.1.200:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 07:24:23 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs
+Wed Dec  9 07:24:23 2009:Notice [httpd/thread/rec_get]: Outgoing headers -- fd: 3
+ARRAY({ "HTTP/1.1 200 OK", "Date: Wed, 09 Dec 2009 06:24:23 GMT", "Connection: close", "Server: FluffOS/v2.18.9-alpha-rth (Linux) Sapidlib/Pre-Alpha", "X-Powered-By: Sapidlib/Pre-Alpha", "Content-Length: 2049", "Content-Type: application/xhtml+xml; charset=utf-8", "Last-Modified: Wed, 09 Dec 2009 06:24:23 GMT", "Expires: Wed, 09 Dec 2009 06:25:23 GMT", "" })
+Wed Dec  9 07:37:31 2009:Warning [SOCKET_D/HTTP_D.3]: Remote connection (3) terminated.
+Wed Dec  9 07:37:31 2009:Notice [HTTP_D/close_cb]: Closing connection to 3
+Wed Dec  9 07:37:31 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 14:26:18 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.1 48598
+Wed Dec  9 14:26:18 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 14:26:18 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#64)
+Wed Dec  9 14:26:18 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#64)
+Wed Dec  9 14:26:18 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "24.210.215.164:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 14:26:18 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs
+Wed Dec  9 14:26:18 2009:Notice [httpd/thread/rec_get]: Outgoing headers -- fd: 3
+ARRAY({ "HTTP/1.1 200 OK", "Date: Wed, 09 Dec 2009 13:26:18 GMT", "Connection: close", "Server: FluffOS/v2.18.9-alpha-rth (Linux) Sapidlib/Pre-Alpha", "X-Powered-By: Sapidlib/Pre-Alpha", "Content-Length: 2049", "Content-Type: application/xhtml+xml; charset=utf-8", "Last-Modified: Wed, 09 Dec 2009 13:26:18 GMT", "Expires: Wed, 09 Dec 2009 13:27:18 GMT", "" })
+Wed Dec  9 14:26:18 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 14:26:33 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.1 48613
+Wed Dec  9 14:26:33 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 14:26:33 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#65)
+Wed Dec  9 14:26:33 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#65)
+Wed Dec  9 14:26:33 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "24.210.215.164:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "image/png,image/*;q=0.8,*/*;q=0.5" ])
+Wed Dec  9 14:26:33 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs/favicon.ico
+Wed Dec  9 14:26:33 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 14:26:37 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.1 48617
+Wed Dec  9 14:26:37 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 14:26:37 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#66)
+Wed Dec  9 14:26:37 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#66)
+Wed Dec  9 14:26:37 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "24.210.215.164:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 14:26:37 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs/favicon.ico
+Wed Dec  9 14:26:37 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 14:32:07 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.1 34921
+Wed Dec  9 14:32:07 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 14:32:07 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#67)
+Wed Dec  9 14:32:07 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#67)
+Wed Dec  9 14:32:08 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "24.210.215.164:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "image/png,image/*;q=0.8,*/*;q=0.5" ])
+Wed Dec  9 14:32:08 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs/favicon.ico
+Wed Dec  9 14:32:08 2009:Warning [SOCKET_D/HTTP_D.3]: Remote connection (3) terminated.
+Wed Dec  9 14:32:08 2009:Notice [HTTP_D/close_cb]: Closing connection to 3
+Wed Dec  9 14:32:08 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 14:33:46 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.1 45993
+Wed Dec  9 14:33:46 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 14:33:46 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#68)
+Wed Dec  9 14:33:46 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#68)
+Wed Dec  9 14:33:46 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Cache-Control": "max-age=0", "Host": "24.210.215.164:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 14:33:46 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs
+Wed Dec  9 14:33:46 2009:Notice [httpd/thread/rec_get]: Outgoing headers -- fd: 3
+ARRAY({ "HTTP/1.1 200 OK", "Date: Wed, 09 Dec 2009 13:33:46 GMT", "Connection: close", "Server: FluffOS/v2.18.9-alpha-rth (Linux) Sapidlib/Pre-Alpha", "X-Powered-By: Sapidlib/Pre-Alpha", "Content-Length: 1974", "Content-Type: application/xhtml+xml; charset=utf-8", "Last-Modified: Wed, 09 Dec 2009 13:33:46 GMT", "Expires: Wed, 09 Dec 2009 13:34:46 GMT", "" })
+Wed Dec  9 14:33:46 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 15:42:08 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.1 48901
+Wed Dec  9 15:42:08 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 15:42:08 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#69)
+Wed Dec  9 15:42:08 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#69)
+Wed Dec  9 15:42:08 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "24.210.215.164:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 15:42:08 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs
+Wed Dec  9 15:42:08 2009:Notice [httpd/thread/rec_get]: Outgoing headers -- fd: 3
+ARRAY({ "HTTP/1.1 200 OK", "Date: Wed, 09 Dec 2009 14:42:08 GMT", "Connection: close", "Server: FluffOS/v2.18.9-alpha-rth (Linux) Sapidlib/Pre-Alpha", "X-Powered-By: Sapidlib/Pre-Alpha", "Content-Length: 1974", "Content-Type: application/xhtml+xml; charset=utf-8", "Last-Modified: Wed, 09 Dec 2009 14:42:08 GMT", "Expires: Wed, 09 Dec 2009 14:43:08 GMT", "" })
+Wed Dec  9 15:42:58 2009:Warning [SOCKET_D/HTTP_D.3]: Remote connection (3) terminated.
+Wed Dec  9 15:42:58 2009:Notice [HTTP_D/close_cb]: Closing connection to 3
+Wed Dec  9 15:42:58 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 15:42:59 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.114 40269
+Wed Dec  9 15:42:59 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 15:42:59 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#70)
+Wed Dec  9 15:42:59 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#70)
+Wed Dec  9 15:42:59 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "192.168.1.200:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 15:42:59 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs
+Wed Dec  9 15:42:59 2009:Notice [httpd/thread/rec_get]: Outgoing headers -- fd: 3
+ARRAY({ "HTTP/1.1 200 OK", "Date: Wed, 09 Dec 2009 14:42:59 GMT", "Connection: close", "Server: FluffOS/v2.18.9-alpha-rth (Linux) Sapidlib/Pre-Alpha", "X-Powered-By: Sapidlib/Pre-Alpha", "Content-Length: 1974", "Content-Type: application/xhtml+xml; charset=utf-8", "Last-Modified: Wed, 09 Dec 2009 14:42:59 GMT", "Expires: Wed, 09 Dec 2009 14:43:59 GMT", "" })
+Wed Dec  9 15:42:59 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 15:42:59 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.114 40271
+Wed Dec  9 15:42:59 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 15:42:59 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#71)
+Wed Dec  9 15:42:59 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#71)
+Wed Dec  9 15:43:00 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Wed Dec  9 15:43:02 2009:Success [SOCKET_D/HTTP_D]: Accepted the incoming connection from 192.168.1.114 40272
+Wed Dec  9 15:43:02 2009:Notice [HTTP_D/listen_cb]: l_fd: 2, r_fd: 3
+Wed Dec  9 15:43:02 2009:Notice [httpd/thread/setup]: this_object(): OBJECT(/std/net/httpd/thread#72)
+Wed Dec  9 15:43:02 2009:Notice [HTTP_D/listen_cb]: http_thread: OBJECT(/std/net/httpd/thread#72)
+Wed Dec  9 15:43:02 2009:Notice [httpd/thread/http_read_cb]: fd: 3
+MAPPING([ "Keep-Alive": "300", "Accept-Charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7", "Connection": "keep-alive", "Accept-Encoding": "gzip,deflate", "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.5) Gecko/20091109 Ubuntu/9.10 (karmic) Firefox/3.5.5", "Host": "192.168.1.200:5890", "Accept-Language": "en-us,en;q=0.5", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ])
+Wed Dec  9 15:43:02 2009:Notice [httpd/thread/rec_get]: fname: /www/htdocs/favicon.ico
+Wed Dec  9 15:43:02 2009:Success [SOCKET_D/HTTP_D.3]: Remote connection (3) closed.
+Thu Dec 10 22:06:47 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Thu Dec 10 22:06:47 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Thu Dec 10 22:06:47 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Thu Dec 10 22:42:57 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Thu Dec 10 22:42:57 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Thu Dec 10 22:42:57 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Thu Dec 10 22:45:37 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Thu Dec 10 22:45:37 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Thu Dec 10 22:45:37 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Thu Dec 10 22:48:32 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Thu Dec 10 22:48:32 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Thu Dec 10 22:48:32 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Thu Dec 10 23:04:34 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Thu Dec 10 23:04:34 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Thu Dec 10 23:04:34 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Fri Dec 11 07:05:56 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Fri Dec 11 07:05:56 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Fri Dec 11 07:05:56 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Fri Dec 11 09:13:50 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Fri Dec 11 09:13:50 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Fri Dec 11 09:13:50 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Fri Dec 11 09:49:35 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Fri Dec 11 09:49:35 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Fri Dec 11 09:49:35 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Fri Dec 11 09:49:46 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Fri Dec 11 09:49:46 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Fri Dec 11 09:49:46 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Fri Dec 11 10:46:04 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Fri Dec 11 10:46:04 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Fri Dec 11 10:46:04 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Fri Dec 11 11:07:38 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Fri Dec 11 11:07:38 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Fri Dec 11 11:07:38 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.
+Sun Dec 13 08:08:48 2009:Success [SOCKET_D/HTTP_D]: Created server socket (2)
+Sun Dec 13 08:08:48 2009:Success [SOCKET_D/HTTP_D]: Server socket bound to port 5890
+Sun Dec 13 08:08:48 2009:Success [SOCKET_D/HTTP_D]: Server listen callback set up.

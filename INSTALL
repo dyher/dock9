@@ -1,0 +1,16 @@
+Setting up your very own Sapidlib is simple and a fun experience for the whole family.
+
+1) cd ./driver/rth/
+2) ./configure sapid
+3) make
+4) make install
+5) cd ../../etc/
+6) cp config.lpu config.mud
+7) edit config.mud to your desired settings.
+8) ./startmud &
+
+If for whatever reason your character is not made an admin when you login, log out and do the following from the root directory (for example, /home/user/sapidlib):
+
+1) rm -r ./lib/data/users/<first initial of character name>/<character name>  (For example, I'd do rm -r ./lib/data/users/e/emsenn/)
+2) touch ./lib/adm/etc/new_install
+3) log back in.

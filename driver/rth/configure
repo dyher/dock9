@@ -1,0 +1,85 @@
+#!/bin/sh
+
+if test "x$1" = "x" -o "x$1" = "x--help" -o "x$1" = "x-h"; then
+  echo "Available options:"
+  echo "A generic build:	./configure generic"
+  echo "For Dead Souls 2:	./configure ds"
+  echo "For Sapidlib:		./configure sapid"
+  echo "For Discworld: 		./configure dw"
+  echo "For Lima: 		./configure lima"
+  echo "For Skylib: 		./configure skylib"
+  echo "For TMI-2:		./configure tmi2"
+  echo "For Merentha:		./configure merentha"
+  echo "For Nightmare 3:	./configure nm3"
+  echo "For LPUniversity:	./configure lpuni"
+  echo "For Lil:		./configure lil"
+  echo "For Final Realms:	./configure fr"
+  echo "For Foundation I:	./configure foundation"
+  echo "For Foundation II:	./configure foundation2"
+  echo "For Nightmare IV:	./configure nm4"
+  exit
+else
+  ARG=$1
+fi
+
+echo "Option selected: $ARG $2"
+sleep 1
+
+./build.FluffOS $2
+
+#start local_options check
+if test -f settings/local_options.$ARG; then
+  if test ! -f local_options; then
+    echo "Copying settings/local_options.$ARG to local_options"
+    cp -f settings/local_options.$ARG local_options
+  else
+    echo "local_options already exists. Not overwriting. Exiting."
+    echo "If you want to completely start over, type: make distclean"
+    exit
+  fi
+else
+  echo "settings/local_options.$ARG not found. Exiting."
+  exit
+fi
+#end local_options check
+
+if test "$ARG" = "ds" -o "$ARG" = "ds.debug"; then
+  cp -f ../extra/creremote/remote.c ../lib/lib/
+fi
+
+if uname -a | fgrep Cygwin - | fgrep -v fgrep - 2>&1 >/dev/null ; then
+  echo "Cygwin detected. Adding appropriate config"
+  echo "#define CYGWIN" >> local_options
+  echo "#define WINDOWS" >> local_options
+else
+  # Some stuff for Dead Souls not on Cygwin
+  if test "$ARG" = "ds" -a ! -f ../bin/mudos.bak; then
+    echo "Moving around some DS specific files..."
+    mv -f ../bin/mudos.cfg ../bin/mudos.bak
+    cp -f ../bin/mudos.cfg.orig ../lib/secure/cfg/mudos.cfg
+    ln -s ../lib/secure/cfg/mudos.cfg ../bin/mudos.cfg
+    echo "File moves done"
+  fi
+fi
+
+if uname -a | fgrep MINGW - | fgrep -v fgrep - 2>&1 >/dev/null ; then
+  echo "MinGW detected. Adding appropriate config"
+  echo "#define MINGW" >> local_options
+  echo "#define WINDOWS" >> local_options
+fi
+
+if uname -a | fgrep WOLF/OS - | fgrep -v fgrep - 2>&1 >/dev/null ; then
+  echo "Wolfpaw detected."
+  echo "Running Wolfpaw-specific modification."
+  echo "When this is done, please enter the following command line:"
+  echo " "
+  echo "make -j 1"
+  cp -f ../extra/wolfpaw/* . 
+  echo "#include \"../extra/wolfpaw/configure.h\"" >> local_options
+fi
+
+ulimit -n 2048
+export ULIMIT=`ulimit -n`
+echo "#define ULIMIT "$ULIMIT >> local_options
+
+echo "Configuration script complete."

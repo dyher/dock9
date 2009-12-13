@@ -1,0 +1,26 @@
+Sapidlib will currently run on two lpmud drivers: FluffOS and MudOS.
+
+If you think FluffOS and MudOS sound similiar, you're absolutely correct -
+they both end in OS. Besides that, FluffOS is a fork of the MudOS driver
+which means that in simple terms: FluffOS is MudOS with extra. This is
+especially true because MudOS hasn't been updated in ages whereas FluffOS
+still gets the odd update. 
+
+Which driver should you use? You'll probably want to use FluffOS but you'll
+find that older code may not work under FluffOS anymore because FluffOS has
+stricter type checking.
+
+You can find the appropriate local_options file in etc/local_options.DRIVER
+(replacing DRIVER with the driver you are compiling, ie. fluffos or mudos).
+
+You may notice a third directory named 'rth'. This is a variant of the FluffOS
+driver maintained by Sapidlib developer Richard Thomas Harrison aka Tricky.
+There isn't a whole lot of difference between the 2 FluffOS's except for some
+minor fixes and more compatibility with Cygwin. To use this driver just enter
+the 'rth' directory and type './configure sapid' and follow the instructions.
+
+Need more help? Please feel free to ask a question on our Question tracker.
+
+ * Sapidlib Question Tracker: http://answers.launchpad.net/sapidlib
+
+Got a bug to report instead? http://launchpad.net/sapidlib/+filebug
