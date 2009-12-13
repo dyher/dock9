@@ -18,7 +18,7 @@ void create(){
       ]) );
     set_exits(([
         "north" : __DIR__ +"dock8.c",
-	    "south" : __DIR__ +"dock11.c",
+        "south" : __DIR__ +"dock11.c",
         "east" : __DIR__ +"pier1.c",
         "west" : __DIR__ +"pier3.c",
       ]) );
