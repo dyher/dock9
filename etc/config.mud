@@ -10,7 +10,7 @@
 name : Dock 9
 
 # port number to accept users on
-port number : 5889
+port number : 5878
 
 # the address server is an external program that lets the mud translate
 # internet names to numbers (and vice versa).  select an unused port.
@@ -18,10 +18,10 @@ address server ip : localhost
 address server port : 7374
 
 # absolute pathname of mudlib
-mudlib directory : /home/emsenn/dock9/lib/
+mudlib directory : /home/abzde/dev/dock9/lib/
 
 # absolute pathname of driver/config dir
-binary directory : /home/emsenn/dock9/bin/
+binary directory : /home/abzde/dev/dock9/bin/
 
 # debug.log and author/domain stats are stored here
 log directory : /log

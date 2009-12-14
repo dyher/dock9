@@ -1,4 +1,4 @@
 #/adm/daemons/history_d.c
 HistoryDir (["admin":"/adm/logs",])
 HistorySize ([])
-ChannelIndex (["admin":0,"intermud3":341,"announce":0,"dev":0,"chat":0,])
+ChannelIndex (["error":0,"admin":0,"dev":0,"announce":0,"intermud3":342,"warning":0,"chat":0,])
